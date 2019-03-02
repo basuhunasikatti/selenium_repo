@@ -1,10 +1,1 @@
- Volume in drive D is Softwares
- Volume Serial Number is 9818-1E01
-
- Directory of D:\MyProject
-
-02-03-2019  19:10    <DIR>          .
-02-03-2019  19:10    <DIR>          ..
-02-03-2019  19:10                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  24,116,637,696 bytes free
+Updated file
